@@ -39,6 +39,7 @@ body {
 .conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #FFF2E7;
+    margin: 30px;
 }
 
 .conteudo-principal {
@@ -46,6 +47,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    gap: 20px;
 }
 
 .conteudo-principal-escrito{
@@ -64,7 +66,7 @@ body {
 .conteudo-principal-escrito-subtitulo {
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 20px;
     color: #ecd6c4;
 }
 
@@ -77,7 +79,7 @@ body {
     border-radius: 20px;
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 20px;
     color: #2F2325;
 }
 
@@ -86,7 +88,7 @@ body {
 }
 
 .conteudo-principal-imagem {
-    height: 350px;
+    height: 250px;
 }
 
 .conteudo-secundario {
